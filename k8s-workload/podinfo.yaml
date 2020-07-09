@@ -17,5 +17,5 @@ spec:
     replicaCount: 2
     ui:
       message: "Hello world! Test ONE" 
-      color: "#34500c"
+ 
    
