@@ -6,8 +6,8 @@ backend: #http://backend-podinfo:9898/echo
 backends: []
 
 ui:
-  color: "#34577c"
-  message: ""
+  color: ""
+  message: "message from chart"
   logo: ""
 
 faults:
