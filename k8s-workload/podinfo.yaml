@@ -16,6 +16,7 @@ spec:
       tag: 3.1.5
     replicaCount: 2
     ui:
-      message: "Hello world! Test ONE" 
+      message: "Hello world! Test 2"
+      color: #34500c
  
    
