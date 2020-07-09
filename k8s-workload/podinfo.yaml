@@ -15,6 +15,4 @@ spec:
       repository: stefanprodan/podinfo
       tag: 3.1.5
     replicaCount: 2
-    ui:
-      color: "#34500c"
-      message: "Hello world! Test ONE"    
+   
