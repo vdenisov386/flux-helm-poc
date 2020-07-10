@@ -4,4 +4,5 @@ metadata:
   name: podinfo
   namespace: demo
 data:
-  message: "Message from ConfigMap"
+  values.yaml: |
+    message: "Message from ConfigMap"
