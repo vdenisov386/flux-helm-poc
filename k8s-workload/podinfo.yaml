@@ -10,6 +10,12 @@ spec:
     git: git@github.com:EugeneAikashev/flux-helm-poc.git
     path: charts/podinfo
     ref: master
+  valuesFrom:
+  - configMapKeyRef:
+      name: podinfo
+      namespace: demo
+      key: values.yaml
+      optional: false
   values:
     image:
       repository: stefanprodan/podinfo
