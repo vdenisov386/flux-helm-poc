@@ -5,4 +5,6 @@ metadata:
   namespace: demo
 data:
   values.yaml: |
-    message: "Message from ConfigMap"
+    ui:
+        message: "Message from ConfigMap"
+ 
