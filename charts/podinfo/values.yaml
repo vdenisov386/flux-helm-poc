@@ -7,7 +7,7 @@ backends: []
 
 ui:
   color: "blue"
-  message: ""
+  message: "Message from Chart"
   logo: ""
 
 faults:
