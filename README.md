@@ -1,5 +1,5 @@
 # flux-helm-poc
-Managing Helm releases with Flux and Helm Operator
+Try GitOps approach with Flux and Helm Operator
 
 # Get started:
 1. ``` cd charts/flux/ ; ./start.sh```
