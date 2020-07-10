@@ -22,7 +22,7 @@ spec:
       tag: 3.1.5
     replicaCount: 2
     ui:
-      message: "Message from HelmRelease! Test 1"
+#      message: "Message from HelmRelease! Test 1"
       color: "green"
   
  
