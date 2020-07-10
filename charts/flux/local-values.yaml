@@ -1,0 +1,8 @@
+git:
+  url: "git@github.com:EugeneAikashev/flux-helm-poc.git"
+  user: "EugeneAikashev"
+  email: "aikashev.yevhen@pdffiller.team"
+  path: "namespaces,k8s-workload"
+
+registry:
+  disableScanning: true
