@@ -6,7 +6,7 @@ backend: #http://backend-podinfo:9898/echo
 backends: []
 
 ui:
-  color: "green"
+  color: "red"
   message: "Message from Chart!!!"
   logo: ""
 
