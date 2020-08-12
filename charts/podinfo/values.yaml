@@ -1,6 +1,6 @@
 # Default values for podinfo.
 
-replicaCount: 1
+replicaCount: 3
 logLevel: info
 backend: #http://backend-podinfo:9898/echo
 backends: []
