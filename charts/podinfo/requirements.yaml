@@ -1,1 +1,3 @@
-
+dependencies:
+- name: podinfo1
+  repository: "https://github.com/EugeneAikashev/flux-helm-poc/tree/master/charts/podinfo"
