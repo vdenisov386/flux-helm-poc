@@ -10,3 +10,6 @@ maintainers:
   name: stefanprodan
 sources:
 - https://github.com/stefanprodan/podinfo
+dependencies:
+- name: podinfo1
+  repository: "https://github.com/EugeneAikashev/flux-helm-poc/tree/master/charts/podinfo"
