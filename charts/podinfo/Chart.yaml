@@ -12,4 +12,4 @@ sources:
 - https://github.com/stefanprodan/podinfo
 dependencies:
 - name: podinfo
-  repository: "https://github.com/EugeneAikashev/flux-helm-poc/tree/master/charts/podinfo"
+  https://github.com/EugeneAikashev/flux-helm-poc/blob/master/charts/podinfo/Chart.yaml
